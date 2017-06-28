@@ -1,0 +1,70 @@
+
+
+#header {
+	font-size: 25px;
+	padding-bottom: 70px;
+	background-color: #B25F00;
+	color: white;
+	padding-top: 50px;
+	font-family: 'Poiret One', cursive;
+	font-weight: 700;
+
+}
+
+#logo{
+	padding-left: 15px;
+	padding-right: 30em;
+	
+	font-family: 'Righteous', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#description {
+	font-family: 'Poiret One', cursive;
+}
+
+
+#follow_btn {
+	border: solid black 1px;
+	width: 300px;
+	height: 56px;
+}
+
+#album, #video {
+	border: solid black 1px;	
+}
+
+
+
+
+#footer {
+	position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    background-color: #B25F00;
+}
+
+p {
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+
+#equalizer {
+	
+	color: #B25F00;
+	font-size: 60px;
+	float: left;
+	margin-left: 3.0em;
+}
+
+#icon_description {
+	font-size: 30px;
+	float: left;
+	padding-top: 28px;
+}
