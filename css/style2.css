@@ -68,3 +68,7 @@ p {
 	float: left;
 	padding-top: 28px;
 }
+
+#add-artist {
+	background-color: black;
+}
